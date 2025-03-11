@@ -13,6 +13,7 @@ namespace LeetCodeTask3110
         {
             Console.WriteLine(Task3110.ScoreOfString("hello"));
 
+
         }
     }
 }
