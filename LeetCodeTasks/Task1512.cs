@@ -35,8 +35,6 @@ namespace LeetCodeTask3110.LeetCodeTasks
             }
 
             return result.Count;
-
         }
-
     }
 }
