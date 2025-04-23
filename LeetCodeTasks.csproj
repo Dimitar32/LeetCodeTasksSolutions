@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LeetCodeTasks\Task0001.cs" />
     <Compile Include="LeetCodeTasks\Task1512.cs" />
     <Compile Include="LeetCodeTasks\Task2011.cs" />
     <Compile Include="LeetCodeTasks\Task2413.cs" />
