@@ -11,7 +11,7 @@ namespace LeetCodeTask3110
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Task3110.ScoreOfString("hello"));
+            Console.WriteLine(Task0202.IsHappy(2));
 
 
         }

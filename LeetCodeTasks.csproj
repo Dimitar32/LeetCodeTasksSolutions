@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="LeetCodeTasks\Task0001.cs" />
     <Compile Include="LeetCodeTasks\Task0069.cs" />
+    <Compile Include="LeetCodeTasks\Task0202.cs" />
     <Compile Include="LeetCodeTasks\Task1512.cs" />
     <Compile Include="LeetCodeTasks\Task2011.cs" />
     <Compile Include="LeetCodeTasks\Task2413.cs" />
