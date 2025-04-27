@@ -62,6 +62,7 @@
   <ItemGroup>
     <Content Include="LeetCodeTasks\Task0175.sql" />
     <Content Include="LeetCodeTasks\Task0570.sql" />
+    <Content Include="LeetCodeTasks\Task1378.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
