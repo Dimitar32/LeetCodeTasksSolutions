@@ -60,6 +60,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="LeetCodeTasks\Easy\Task1075.sql" />
     <Content Include="LeetCodeTasks\Task0175.sql" />
     <Content Include="LeetCodeTasks\Task0197.sql" />
     <Content Include="LeetCodeTasks\Task0570.sql" />
@@ -67,6 +68,9 @@
     <Content Include="LeetCodeTasks\Task1251.sql" />
     <Content Include="LeetCodeTasks\Task1378.sql" />
     <Content Include="LeetCodeTasks\Task1661.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="LeetCodeTasks\Medium\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
