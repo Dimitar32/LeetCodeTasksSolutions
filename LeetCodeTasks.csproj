@@ -65,6 +65,7 @@
     <Content Include="LeetCodeTasks\Easy\Task0619.sql" />
     <Content Include="LeetCodeTasks\Easy\Task1075.sql" />
     <Content Include="LeetCodeTasks\Easy\Task1211.sql" />
+    <Content Include="LeetCodeTasks\Easy\Task1327.sql" />
     <Content Include="LeetCodeTasks\Easy\Task1527.sql" />
     <Content Include="LeetCodeTasks\Easy\Task1667.sql" />
     <Content Include="LeetCodeTasks\Easy\Task1729.sql" />
