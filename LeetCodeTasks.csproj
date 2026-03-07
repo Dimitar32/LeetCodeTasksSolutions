@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="LeetCodeTasks\Easy\Task0181.sql" />
     <Compile Include="LeetCodeTasks\Task0001.cs" />
     <Compile Include="LeetCodeTasks\Task0069.cs" />
     <Compile Include="LeetCodeTasks\Task0191.cs" />
@@ -60,6 +61,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="LeetCodeTasks\Easy\Task0183.sql" />
+    <Content Include="LeetCodeTasks\Easy\Task0196.sql" />
+    <Content Include="LeetCodeTasks\Easy\Task0511.sql" />
     <Content Include="LeetCodeTasks\Easy\Task0596.sql" />
     <Content Include="LeetCodeTasks\Easy\Task0610.sql" />
     <Content Include="LeetCodeTasks\Easy\Task0619.sql" />
