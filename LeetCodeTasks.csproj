@@ -79,6 +79,7 @@
     <Content Include="LeetCodeTasks\Easy\Task2356.sql" />
     <Content Include="LeetCodeTasks\Medium\Task0178.sql" />
     <Content Include="LeetCodeTasks\Medium\Task0184.sql" />
+    <Content Include="LeetCodeTasks\Medium\Task0185.sql" />
     <Content Include="LeetCodeTasks\Task0175.sql" />
     <Content Include="LeetCodeTasks\Task0197.sql" />
     <Content Include="LeetCodeTasks\Task0570.sql" />
