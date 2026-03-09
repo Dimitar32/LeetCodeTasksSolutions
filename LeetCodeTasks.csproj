@@ -61,6 +61,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="LeetCodeTasks\Easy\Task0182.sql" />
     <Content Include="LeetCodeTasks\Easy\Task0183.sql" />
     <Content Include="LeetCodeTasks\Easy\Task0196.sql" />
     <Content Include="LeetCodeTasks\Easy\Task0511.sql" />
