@@ -82,6 +82,7 @@
     <Content Include="LeetCodeTasks\Medium\Task0184.sql" />
     <Content Include="LeetCodeTasks\High\Task0185.sql" />
     <Content Include="LeetCodeTasks\Medium\Task0585.sql" />
+    <Content Include="LeetCodeTasks\Pandas\Easy\Task2877.py" />
     <Content Include="LeetCodeTasks\Task0175.sql" />
     <Content Include="LeetCodeTasks\Task0197.sql" />
     <Content Include="LeetCodeTasks\Task0570.sql" />
