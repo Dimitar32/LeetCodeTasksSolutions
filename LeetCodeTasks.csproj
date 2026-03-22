@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <Content Include="LeetCodeTasks\Java\Task1108.java" />
     <Content Include="LeetCodeTasks\Pandas\Easy\Task2886.py" />
   </ItemGroup>
   <ItemGroup>
