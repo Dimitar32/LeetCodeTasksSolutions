@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="LeetCodeTasks\Easy\Task0181.sql" />
     <Compile Include="LeetCodeTasks\Task0001.cs" />
     <Compile Include="LeetCodeTasks\Task0069.cs" />
     <Compile Include="LeetCodeTasks\Task0191.cs" />
@@ -60,30 +59,31 @@
   <ItemGroup>
     <None Include="App.config" />
     <Content Include="LeetCodeTasks\Java\Easy\Task1108.java" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task0181.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task0182.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task0183.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task0196.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task0511.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task0596.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task0610.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task0619.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task1075.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task1211.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task1327.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task1527.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task1667.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task1729.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task1731.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task1789.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task2356.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\High\Task0185.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Medium\Task0178.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Medium\Task0180.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Medium\Task0184.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Medium\Task0585.sql" />
     <Content Include="LeetCodeTasks\Pandas\Easy\Task2886.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="LeetCodeTasks\Easy\Task0182.sql" />
-    <Content Include="LeetCodeTasks\Easy\Task0183.sql" />
-    <Content Include="LeetCodeTasks\Easy\Task0196.sql" />
-    <Content Include="LeetCodeTasks\Easy\Task0511.sql" />
-    <Content Include="LeetCodeTasks\Easy\Task0596.sql" />
-    <Content Include="LeetCodeTasks\Easy\Task0610.sql" />
-    <Content Include="LeetCodeTasks\Easy\Task0619.sql" />
-    <Content Include="LeetCodeTasks\Easy\Task1075.sql" />
-    <Content Include="LeetCodeTasks\Easy\Task1211.sql" />
-    <Content Include="LeetCodeTasks\Easy\Task1327.sql" />
-    <Content Include="LeetCodeTasks\Easy\Task1527.sql" />
-    <Content Include="LeetCodeTasks\Easy\Task1667.sql" />
-    <Content Include="LeetCodeTasks\Easy\Task1729.sql" />
-    <Content Include="LeetCodeTasks\Easy\Task1731.sql" />
-    <Content Include="LeetCodeTasks\Easy\Task1789.sql" />
-    <Content Include="LeetCodeTasks\Easy\Task2356.sql" />
-    <Content Include="LeetCodeTasks\Medium\Task0178.sql" />
-    <Content Include="LeetCodeTasks\Medium\Task0180.sql" />
-    <Content Include="LeetCodeTasks\Medium\Task0184.sql" />
-    <Content Include="LeetCodeTasks\High\Task0185.sql" />
-    <Content Include="LeetCodeTasks\Medium\Task0585.sql" />
     <Content Include="LeetCodeTasks\Pandas\Easy\Task2877.py" />
     <Content Include="LeetCodeTasks\Pandas\Easy\Task2878.py" />
     <Content Include="LeetCodeTasks\Pandas\Easy\Task2879.py" />
@@ -103,7 +103,7 @@
     <Content Include="LeetCodeTasks\Task1661.sql" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="LeetCodeTasks\MSSQL\" />
+    <Folder Include="LeetCodeTasks\Python\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
