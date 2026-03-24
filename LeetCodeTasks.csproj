@@ -71,6 +71,7 @@
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task1211.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task1327.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task1527.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task1633.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task1667.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task1729.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task1731.sql" />
