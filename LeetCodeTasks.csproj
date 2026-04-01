@@ -44,16 +44,16 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1174.sql" />
-    <Compile Include="LeetCodeTasks\Task0001.cs" />
-    <Compile Include="LeetCodeTasks\Task0069.cs" />
-    <Compile Include="LeetCodeTasks\Task0191.cs" />
-    <Compile Include="LeetCodeTasks\Task0202.cs" />
-    <Compile Include="LeetCodeTasks\Task1512.cs" />
-    <Compile Include="LeetCodeTasks\Task2011.cs" />
-    <Compile Include="LeetCodeTasks\Task2413.cs" />
-    <Compile Include="LeetCodeTasks\Task2769.cs" />
-    <Compile Include="LeetCodeTasks\Task2894.cs" />
-    <Compile Include="LeetCodeTasks\Task3110.cs" />
+    <Compile Include="LeetCodeTasks\C#\Easy\Task0001.cs" />
+    <Compile Include="LeetCodeTasks\C#\Easy\Task0069.cs" />
+    <Compile Include="LeetCodeTasks\C#\Easy\Task0191.cs" />
+    <Compile Include="LeetCodeTasks\C#\Easy\Task0202.cs" />
+    <Compile Include="LeetCodeTasks\C#\Easy\Task1512.cs" />
+    <Compile Include="LeetCodeTasks\C#\Easy\Task2011.cs" />
+    <Compile Include="LeetCodeTasks\C#\Easy\Task2413.cs" />
+    <Compile Include="LeetCodeTasks\C#\Easy\Task2769.cs" />
+    <Compile Include="LeetCodeTasks\C#\Easy\Task2894.cs" />
+    <Compile Include="LeetCodeTasks\C#\Easy\Task3110.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -101,13 +101,13 @@
     <Content Include="LeetCodeTasks\Pandas\Easy\Task2889.py" />
     <Content Include="LeetCodeTasks\Pandas\Easy\Task2890.py" />
     <Content Include="LeetCodeTasks\Pandas\Easy\Task2891.py" />
-    <Content Include="LeetCodeTasks\Task0175.sql" />
-    <Content Include="LeetCodeTasks\Task0197.sql" />
-    <Content Include="LeetCodeTasks\Task0570.sql" />
-    <Content Include="LeetCodeTasks\Task0620.sql" />
-    <Content Include="LeetCodeTasks\Task1251.sql" />
-    <Content Include="LeetCodeTasks\Task1378.sql" />
-    <Content Include="LeetCodeTasks\Task1661.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task0175.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task0197.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Medium\Task0570.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task0620.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task1251.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task1378.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task1661.sql" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="LeetCodeTasks\Python\" />
