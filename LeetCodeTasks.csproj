@@ -45,6 +45,7 @@
   <ItemGroup>
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task1141.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task0550.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Medium\Task0602.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task0626.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1070.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1164.sql" />
