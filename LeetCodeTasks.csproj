@@ -46,6 +46,7 @@
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task1141.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task0550.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1070.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Medium\Task1164.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1174.sql" />
     <Compile Include="LeetCodeTasks\C#\Easy\Task0001.cs" />
     <Compile Include="LeetCodeTasks\C#\Easy\Task0069.cs" />
