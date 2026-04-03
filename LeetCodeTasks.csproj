@@ -93,6 +93,12 @@
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1204.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1341.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1907.sql" />
+    <Content Include="LeetCodeTasks\Pandas\Easy\Task0183.py" />
+    <Content Include="LeetCodeTasks\Pandas\Easy\Task0595.py" />
+    <Content Include="LeetCodeTasks\Pandas\Easy\Task1148.py" />
+    <Content Include="LeetCodeTasks\Pandas\Easy\Task1683.py" />
+    <Content Include="LeetCodeTasks\Pandas\Easy\Task1757.py" />
+    <Content Include="LeetCodeTasks\Pandas\Easy\Task1873.py" />
     <Content Include="LeetCodeTasks\Pandas\Easy\Task2886.py" />
   </ItemGroup>
   <ItemGroup>
