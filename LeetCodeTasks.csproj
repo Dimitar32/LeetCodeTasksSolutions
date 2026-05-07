@@ -43,10 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task0586.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task0607.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task0627.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task1141.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task1484.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Medium\Task0176.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Medium\Task0177.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task0550.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task0602.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Medium\Task0608.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task0626.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Medium\Task1045.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1070.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1164.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1174.sql" />
@@ -93,6 +101,7 @@
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1204.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1341.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1907.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Medium\Task1934.sql" />
     <Content Include="LeetCodeTasks\Pandas\Easy\Task0183.py" />
     <Content Include="LeetCodeTasks\Pandas\Easy\Task0196.py" />
     <Content Include="LeetCodeTasks\Pandas\Easy\Task0595.py" />
