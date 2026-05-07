@@ -46,6 +46,8 @@
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task0586.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task0607.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task0627.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task1050.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task1084.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task1141.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task1484.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task0176.sql" />
