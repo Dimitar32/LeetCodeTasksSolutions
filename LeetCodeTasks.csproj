@@ -49,6 +49,7 @@
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task1050.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task1084.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task1141.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Easy\Task1179.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Easy\Task1484.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task0176.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task0177.sql" />
@@ -58,6 +59,7 @@
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task0626.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1045.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1070.sql" />
+    <Content Include="LeetCodeTasks\MSSQL\Medium\Task1158.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1164.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1174.sql" />
     <Compile Include="LeetCodeTasks\C#\Easy\Task0001.cs" />
