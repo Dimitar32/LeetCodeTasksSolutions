@@ -74,6 +74,8 @@
     <Compile Include="LeetCodeTasks\C#\Easy\Task3110.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Content Include="LeetCodeTasks\Pandas\Easy\Task0181.py" />
+    <Content Include="LeetCodeTasks\Pandas\Medium\Task0176.py" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -106,6 +108,7 @@
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1341.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1907.sql" />
     <Content Include="LeetCodeTasks\MSSQL\Medium\Task1934.sql" />
+    <Content Include="LeetCodeTasks\Pandas\Easy\Task0175.py" />
     <Content Include="LeetCodeTasks\Pandas\Easy\Task0183.py" />
     <Content Include="LeetCodeTasks\Pandas\Easy\Task0196.py" />
     <Content Include="LeetCodeTasks\Pandas\Easy\Task0595.py" />
